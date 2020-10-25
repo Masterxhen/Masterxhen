@@ -14,7 +14,7 @@
 
 
 ### Spotify Now Playing
-[![Spotify](https://masterxhen.vercel.app/api/spotify)](https://open.spotify.com/user/masterxhen)
+[![Spotify](https://novatorem.masterxhen.vercel.app/api/spotify)](https://open.spotify.com/user/masterxhen)
 <br />
 
 ### Connect with me:
