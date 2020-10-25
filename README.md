@@ -57,8 +57,8 @@
 
 ---
 ### :zap: Github Stats
-<img align="center" alt="masterxhen's GitHub Stats" src="https://github-readme-stats.masterxhen.vercel.app
-/api?username=masterxhen&show_icons=true&hide_border=true" />
+[![Anurag's github stats](https://github-readme-stats.masterxhen.vercel.app/api?username=masterxhen)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 
