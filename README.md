@@ -5,14 +5,18 @@
 
 
 ## I'm a Student, Developer, Slacker, Cook, DJ,  and Gamer!!
-
+- 🧑‍🎓 I am a [Computer Science Student](https://en.wikipedia.org/wiki/Computer_science) [@STI College Muñoz-EDSA](https://www.facebook.com/munoz.sti.edu)
+- 🖥️ Skilled at Backend Programming 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play ukulele / dj controller
 <br />
 
-
+## ⚡ Fun facts about me
+- 🎮 Gamer on any plaforms on several genres ([RPG][roleplay],[Strategy][strategy],[Racing][racing],[Open World][open-world],[Action][action], and [Adventure][adventure])
+- 🎸Plays String Instruments such as (Guitar)[https://en.wikipedia.org/wiki/Guitar] and (Ukulele)[https://en.wikipedia.org/wiki/Ukulele]
+- 🎛️ I also played DJ controllers
+- 🏍️ Love to ride any motor vehicles
 ### Spotify Now Playing
 [![Spotify](https://novatorem.masterxhen.vercel.app/api/spotify)](https://open.spotify.com/user/masterxhen)
 <br />
@@ -81,3 +85,11 @@
 [java]: https://www.sololearn.com/Certificate/1068-1592303/jpg
 
 <!-- Current Skills without certificates -->
+
+<!-- Game Genres -->
+[roleplay]: https://en.wikipedia.org/wiki/List_of_video_game_genres#Role-playing
+[strategy]: https://en.wikipedia.org/wiki/List_of_video_game_genres#Strategy
+[racing]: https://en.wikipedia.org/wiki/List_of_video_game_genres#Racing
+[open-world]: https://en.wikipedia.org/wiki/List_of_video_game_genres#Open_world
+[action]: https://en.wikipedia.org/wiki/List_of_video_game_genres#Action
+[adventure]: https://en.wikipedia.org/wiki/List_of_video_game_genres#Action-adventure
