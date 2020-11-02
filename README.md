@@ -14,7 +14,7 @@
 
 ## ⚡ Fun facts about me
 - 🎮 Gamer on any plaforms on several genres ([RPG][roleplay],[Strategy][strategy],[Racing][racing],[Open World][open-world],[Action][action], and [Adventure][adventure])
-- 🎸Plays String Instruments such as (Guitar)[https://en.wikipedia.org/wiki/Guitar] and (Ukulele)[https://en.wikipedia.org/wiki/Ukulele]
+- 🎸Plays String Instruments such as [Guitar](https://en.wikipedia.org/wiki/Guitar) and [Ukulele](https://en.wikipedia.org/wiki/Ukulele)
 - 🎛️ I also played DJ controllers
 - 🏍️ Love to ride any motor vehicles
 ### Spotify Now Playing
