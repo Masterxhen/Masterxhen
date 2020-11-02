@@ -61,7 +61,7 @@
 
 ---
 ### :zap: Github Stats
-[![John Thien Asis' github stats](https://github-readme-stats.masterxhen.vercel.app/api?username=masterxhen)](https://github.com/anuraghazra/github-readme-stats)
+[![John Thien Asis' github stats](https://github-readme-stats.masterxhen.vercel.app/api?username=masterxhen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
